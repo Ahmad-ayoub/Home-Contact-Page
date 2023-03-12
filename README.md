@@ -9,3 +9,4 @@ Summary:
 This is my first project as part of the Software Developer MasterMind Mentorship Program. It was tricky in the beginning only because I was too busy working on a React App and learning JS so some of the elements and tags I forgot. But after problem solving and looking at online sources I was able to finish it all up.
 
 Ahmad Ayoub - Web Dev in training - https://www.linkedin.com/in/ahmad-ayoub/
+[Here's a link to my github pages site](https://ahmad-ayoub.github.io/Home-Contact-Page/)
